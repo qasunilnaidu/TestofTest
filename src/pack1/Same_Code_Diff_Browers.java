@@ -46,6 +46,7 @@ public class Same_Code_Diff_Browers {
 		String S2 = driver.getTitle();
 		System.out.println(S2);
 		driver.navigate().back();
+		System.out.println("Hai");
 	}
 
 }
